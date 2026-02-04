@@ -1,4 +1,4 @@
-🌍 Language: Russian | [English](README.md)
+🌍 Language: [English](README.md) |  Russian
 
 # 🚀 Чистый российский резидентский IP на телефоне (БЕЗ VPN)
 
