@@ -1,3 +1,5 @@
+🌍 Language: English | [Русский](README_RU.md)
+
 # 🚀 Clean Russian Residential IP on Phone (No VPN Apps)
 
 Get a **clean Russian residential IP** on your phone **without any VPN apps** installed on the device.
