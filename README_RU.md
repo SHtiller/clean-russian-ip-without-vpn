@@ -1,4 +1,4 @@
-🌍 Language: [English](README.md) |  Russian
+<img width="607" height="718" alt="image" src="https://github.com/user-attachments/assets/dfeb6c7f-868b-4651-b674-ab9e5f207c1e" />🌍 Language: [English](README.md) |  Russian
 
 # 🚀 Чистый российский резидентский IP на телефоне (БЕЗ VPN)
 
@@ -95,6 +95,7 @@
 Wi-Fi должен быть свободен для раздачи.
 
 ---
+<img width="607" height="718" alt="image" src="https://github.com/user-attachments/assets/5caaca5d-cd43-4fc2-973f-19fa4155b781" />
 
 ### 2️⃣ Установите и запустите MyPublicWiFi
 Запускайте **от имени администратора**.
@@ -115,6 +116,8 @@ Wi-Fi должен быть свободен для раздачи.
 - Убедитесь, что интернет работает
 
 ---
+<img width="342" height="172" alt="image" src="https://github.com/user-attachments/assets/6b39009e-61d2-4654-bdac-a37fdf5cb2cd" />
+<img width="607" height="719" alt="image" src="https://github.com/user-attachments/assets/393996b3-1fea-4154-a3f5-919794dff931" />
 
 ### 4️⃣ Включите Exit Node (КЛЮЧЕВОЙ ШАГ)
 
