@@ -85,6 +85,7 @@ Start the hotspot.
 
 ---
 <img width="607" height="718" alt="image" src="https://github.com/user-attachments/assets/5caaca5d-cd43-4fc2-973f-19fa4155b781" />
+
 ### 3️⃣ Connect your phone to the hotspot
 - Connect to the Wi-Fi network created by MyPublicWiFi
 - Confirm internet works on the phone
@@ -92,6 +93,7 @@ Start the hotspot.
 ---
 <img width="342" height="172" alt="image" src="https://github.com/user-attachments/assets/6b39009e-61d2-4654-bdac-a37fdf5cb2cd" />
 <img width="607" height="719" alt="image" src="https://github.com/user-attachments/assets/393996b3-1fea-4154-a3f5-919794dff931" />
+
 ### 4️⃣ Enable Tailscale Exit Node (critical step)
 
 On the PC:
