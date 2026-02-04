@@ -9,6 +9,7 @@ This method works for:
 - biometrics and identity verification
 - banking apps
 - services with strict VPN / proxy detection
+- VoIP
 
 ✅ No VPN on the phone  
 ✅ No programming  
