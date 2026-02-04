@@ -1,4 +1,4 @@
-<img width="607" height="718" alt="image" src="https://github.com/user-attachments/assets/dfeb6c7f-868b-4651-b674-ab9e5f207c1e" />🌍 Language: [English](README.md) |  Russian
+🌍 Language: [English](README.md) |  Russian
 
 # 🚀 Чистый российский резидентский IP на телефоне (БЕЗ VPN)
 
